@@ -5,10 +5,6 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
 <div align="left">
   <h2>SKILLS</h2>
   <h3>Programming Languages</h3>
