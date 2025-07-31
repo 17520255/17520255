@@ -37,7 +37,8 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
     <img width="12" />
-    <img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" height="40" alt="Cursor logo" width="12" />
+    <img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" height="40" alt="Cursor logo"/>
+    <img width="12" />
     <img src="https://skillicons.dev/icons?i=sublime" height="40" alt="sublime logo" />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=rstudio" height="40" alt="rstudio logo" />
