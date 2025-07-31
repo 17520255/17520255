@@ -23,7 +23,6 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo" />
   </div>
   
   <h3>Frameworks and Libraries</h3>
@@ -38,8 +37,7 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=cursor" height="40" alt="cursor logo" />
-    <img width="12" />
+    <img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" height="40" alt="Cursor logo" width="12" />
     <img src="https://skillicons.dev/icons?i=sublime" height="40" alt="sublime logo" />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=rstudio" height="40" alt="rstudio logo" />
